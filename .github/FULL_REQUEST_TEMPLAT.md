@@ -1,3 +1,3 @@
-# PR Tye
+# PR Type
 
 # 설명
